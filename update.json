@@ -1,0 +1,6 @@
+{
+  "versionCode": 3,
+  "versionName": "0.3.0",
+  "apkUrl": "https://raw.githubusercontent.com/Liuyuxuan173/todo-alarm-update/main/todo-alarm-v0.3.0.apk",
+  "changelog": "1. 新增设置页，显示版本号\n2. 新增数据备份与导入功能\n3. 新增内置检查更新，一键下载安装\n4. 修复删除bug，新增滑动删除\n5. 闹钟支持提前量设置，桌面组件显示备注"
+}
