@@ -1,7 +1,7 @@
 {
   "versionCode": 3,
   "versionName": "0.3.0",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/Liuyuxuan173/todo-alarm-update@main/todo-alarm-v0.3.0.apk",
+  "apkUrl": "https://fastly.jsdelivr.net/gh/Liuyuxuan173/todo-alarm-update@main/todo-alarm-v0.3.0.apk",
   "size": 75542,
   "sha256": "2951FE5DE7794F7E24CAC21D74B61F06F3A8D19CF2F955D2003D81ADF0831435",
   "notes": "新增设置页（版本号 / 检查更新 / 备份与导入）；一键下载并调起系统安装；升级不用再手动传包。"
